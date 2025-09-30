@@ -29,7 +29,7 @@
     
     <!-- main -->
     <main class="maya-prose">
-      <Container>
+      <Container v-bottom-up>
         <slot />
       </Container>
     </main>

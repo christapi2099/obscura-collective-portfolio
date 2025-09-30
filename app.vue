@@ -1,7 +1,9 @@
 <template>
   <div>
       <NuxtLoadingIndicator />
-      <NuxtPage />
+      <transition name="page-slide-transition" mode="out-in">
+        <NuxtPage />
+      </transition>
   </div>
 </template>
 
