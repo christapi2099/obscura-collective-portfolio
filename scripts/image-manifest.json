@@ -1,0 +1,276 @@
+{
+  "couples": [
+    {
+      "gallery": "couples",
+      "file": "dsc05370.webp",
+      "src": "/img/galleries/couples/dsc05370.webp",
+      "width": 1600,
+      "height": 1064,
+      "originalFile": "DSC05370.JPG"
+    },
+    {
+      "gallery": "couples",
+      "file": "dsc05494.webp",
+      "src": "/img/galleries/couples/dsc05494.webp",
+      "width": 1600,
+      "height": 1064,
+      "originalFile": "DSC05494.JPG"
+    },
+    {
+      "gallery": "couples",
+      "file": "dsc05515.webp",
+      "src": "/img/galleries/couples/dsc05515.webp",
+      "width": 1600,
+      "height": 1064,
+      "originalFile": "DSC05515.JPG"
+    },
+    {
+      "gallery": "couples",
+      "file": "dsc05589.webp",
+      "src": "/img/galleries/couples/dsc05589.webp",
+      "width": 1600,
+      "height": 1064,
+      "originalFile": "DSC05589.JPG"
+    },
+    {
+      "gallery": "couples",
+      "file": "dsc05622.webp",
+      "src": "/img/galleries/couples/dsc05622.webp",
+      "width": 1600,
+      "height": 1064,
+      "originalFile": "DSC05622.JPG"
+    },
+    {
+      "gallery": "couples",
+      "file": "_dsc7237.webp",
+      "src": "/img/galleries/couples/_dsc7237.webp",
+      "width": 1600,
+      "height": 2843,
+      "originalFile": "_DSC7237.jpg"
+    },
+    {
+      "gallery": "couples",
+      "file": "_dsc7253.webp",
+      "src": "/img/galleries/couples/_dsc7253.webp",
+      "width": 1600,
+      "height": 1901,
+      "originalFile": "_DSC7253.jpg"
+    },
+    {
+      "gallery": "couples",
+      "file": "_dsc7308.webp",
+      "src": "/img/galleries/couples/_dsc7308.webp",
+      "width": 1600,
+      "height": 2217,
+      "originalFile": "_DSC7308.jpg"
+    },
+    {
+      "gallery": "couples",
+      "file": "christatibeach1.webp",
+      "src": "/img/galleries/couples/christatibeach1.webp",
+      "width": 1600,
+      "height": 1697,
+      "originalFile": "christatibeach1.jpg"
+    }
+  ],
+  "gym": [
+    {
+      "gallery": "gym",
+      "file": "_dsc1038.webp",
+      "src": "/img/galleries/gym/_dsc1038.webp",
+      "width": 1600,
+      "height": 2248,
+      "originalFile": "_DSC1038.jpg"
+    },
+    {
+      "gallery": "gym",
+      "file": "_dsc1098.webp",
+      "src": "/img/galleries/gym/_dsc1098.webp",
+      "width": 1600,
+      "height": 2338,
+      "originalFile": "_DSC1098.jpg"
+    },
+    {
+      "gallery": "gym",
+      "file": "_dsc1161.webp",
+      "src": "/img/galleries/gym/_dsc1161.webp",
+      "width": 1600,
+      "height": 1510,
+      "originalFile": "_DSC1161.jpg"
+    },
+    {
+      "gallery": "gym",
+      "file": "_dsc1239.webp",
+      "src": "/img/galleries/gym/_dsc1239.webp",
+      "width": 1600,
+      "height": 2400,
+      "originalFile": "_DSC1239.jpg"
+    }
+  ],
+  "portraits": [
+    {
+      "gallery": "portraits",
+      "file": "img_6386.webp",
+      "src": "/img/galleries/portraits/img_6386.webp",
+      "width": 1600,
+      "height": 1067,
+      "originalFile": "IMG_6386.jpg"
+    },
+    {
+      "gallery": "portraits",
+      "file": "img_6392.webp",
+      "src": "/img/galleries/portraits/img_6392.webp",
+      "width": 1600,
+      "height": 2399,
+      "originalFile": "IMG_6392.jpg"
+    },
+    {
+      "gallery": "portraits",
+      "file": "img_6460.webp",
+      "src": "/img/galleries/portraits/img_6460.webp",
+      "width": 1600,
+      "height": 2399,
+      "originalFile": "IMG_6460.jpg"
+    },
+    {
+      "gallery": "portraits",
+      "file": "img_6463.webp",
+      "src": "/img/galleries/portraits/img_6463.webp",
+      "width": 1600,
+      "height": 2399,
+      "originalFile": "IMG_6463.jpg"
+    },
+    {
+      "gallery": "portraits",
+      "file": "img_6469.webp",
+      "src": "/img/galleries/portraits/img_6469.webp",
+      "width": 1600,
+      "height": 2399,
+      "originalFile": "IMG_6469.jpg"
+    },
+    {
+      "gallery": "portraits",
+      "file": "img_6474.webp",
+      "src": "/img/galleries/portraits/img_6474.webp",
+      "width": 1600,
+      "height": 1067,
+      "originalFile": "IMG_6474.jpg"
+    },
+    {
+      "gallery": "portraits",
+      "file": "img_6480.webp",
+      "src": "/img/galleries/portraits/img_6480.webp",
+      "width": 1600,
+      "height": 2399,
+      "originalFile": "IMG_6480.jpg"
+    },
+    {
+      "gallery": "portraits",
+      "file": "img_6482.webp",
+      "src": "/img/galleries/portraits/img_6482.webp",
+      "width": 1600,
+      "height": 2399,
+      "originalFile": "IMG_6482.jpg"
+    }
+  ],
+  "wedding": [
+    {
+      "gallery": "wedding",
+      "file": "img_6020.webp",
+      "src": "/img/galleries/wedding/img_6020.webp",
+      "width": 1600,
+      "height": 2288,
+      "originalFile": "IMG_6020.jpg"
+    },
+    {
+      "gallery": "wedding",
+      "file": "lorena.webp",
+      "src": "/img/galleries/wedding/lorena.webp",
+      "width": 1600,
+      "height": 1107,
+      "originalFile": "Lorena.jpg"
+    },
+    {
+      "gallery": "wedding",
+      "file": "_dsc0857.webp",
+      "src": "/img/galleries/wedding/_dsc0857.webp",
+      "width": 1600,
+      "height": 2843,
+      "originalFile": "_DSC0857.jpg"
+    },
+    {
+      "gallery": "wedding",
+      "file": "_dsc7204.webp",
+      "src": "/img/galleries/wedding/_dsc7204.webp",
+      "width": 1600,
+      "height": 970,
+      "originalFile": "_DSC7204.jpg"
+    },
+    {
+      "gallery": "wedding",
+      "file": "_dsc7265.webp",
+      "src": "/img/galleries/wedding/_dsc7265.webp",
+      "width": 1600,
+      "height": 1086,
+      "originalFile": "_DSC7265.jpg"
+    },
+    {
+      "gallery": "wedding",
+      "file": "_dsc7431.webp",
+      "src": "/img/galleries/wedding/_dsc7431.webp",
+      "width": 1600,
+      "height": 1560,
+      "originalFile": "_DSC7431.jpg"
+    }
+  ],
+  "graduation": [
+    {
+      "gallery": "graduation",
+      "file": "img_5177.webp",
+      "src": "/img/galleries/graduation/img_5177.webp",
+      "width": 1600,
+      "height": 1067,
+      "originalFile": "IMG_5177.jpg"
+    },
+    {
+      "gallery": "graduation",
+      "file": "img_5179.webp",
+      "src": "/img/galleries/graduation/img_5179.webp",
+      "width": 1600,
+      "height": 2400,
+      "originalFile": "IMG_5179.jpg"
+    },
+    {
+      "gallery": "graduation",
+      "file": "img_5196.webp",
+      "src": "/img/galleries/graduation/img_5196.webp",
+      "width": 1600,
+      "height": 2400,
+      "originalFile": "IMG_5196.jpg"
+    },
+    {
+      "gallery": "graduation",
+      "file": "img_5214.webp",
+      "src": "/img/galleries/graduation/img_5214.webp",
+      "width": 1600,
+      "height": 2400,
+      "originalFile": "IMG_5214.jpg"
+    },
+    {
+      "gallery": "graduation",
+      "file": "img_5222.webp",
+      "src": "/img/galleries/graduation/img_5222.webp",
+      "width": 1600,
+      "height": 2400,
+      "originalFile": "IMG_5222.jpg"
+    },
+    {
+      "gallery": "graduation",
+      "file": "img_5230.webp",
+      "src": "/img/galleries/graduation/img_5230.webp",
+      "width": 1600,
+      "height": 2400,
+      "originalFile": "IMG_5230.jpg"
+    }
+  ]
+}
