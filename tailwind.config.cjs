@@ -61,6 +61,11 @@ module.exports = {
             hidden: "hidden",
             visible: "visible",
           },
+          containIntrinsicSize: {
+            auto: "auto",
+            none: "none",
+            0: "0",
+          },
         },
       },
     ),
