@@ -4,7 +4,7 @@ const plugin = require("tailwindcss/plugin");
 const srcDir = ".";
 
 module.exports = {
-  darkMode: 'class',
+  darkMode: "class",
   content: [
     `${srcDir}/components/**/*.{vue,js,ts}`,
     `${srcDir}/layouts/**/*.vue`,
@@ -39,7 +39,7 @@ module.exports = {
           },
           {
             values: theme("contentVisibility"),
-          }
+          },
         );
         matchUtilities(
           {
@@ -51,7 +51,7 @@ module.exports = {
           },
           {
             values: theme("containIntrinsicSize"),
-          }
+          },
         );
       },
       {
@@ -62,13 +62,14 @@ module.exports = {
             visible: "visible",
           },
         },
-      }
+      },
     ),
   ],
   theme: {
     fontFamily: {
       display: ["Cormorant Garamond", "ui-serif", "Georgia"],
       body: ["Poppins", "ui-sans-serif", "system-ui"],
+      signature: ["Dancing Script", "cursive"],
     },
     extend: {
       maxWidth: {

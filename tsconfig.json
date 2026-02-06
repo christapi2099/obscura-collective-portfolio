@@ -1,9 +1,3 @@
-// {
-//   // https://nuxt.com/docs/guide/concepts/typescript
-//   "extends": "./.demo/.nuxt/tsconfig.json"
-// }
-
 {
-    // https://nuxt.com/docs/guide/concepts/typescript
-    "extends": "./.nuxt/tsconfig.json"
+  "extends": "./.nuxt/tsconfig.json",
 }

@@ -1,5 +1,5 @@
 {
-  "name": "maya-nuxt3-photography-portfolio",
+  "name": "obscura-collective-portfolio",
   "private": true,
   "version": "0.1.0",
   "main": "nuxt.config.ts",
@@ -47,6 +47,7 @@
     "nuxt": "^3.2.2",
     "nuxt-icon": "^0.3.2",
     "release-it": "^15.6.0",
+    "sharp": "^0.34.5",
     "tailwindcss": "^3.2.7",
     "typescript": "^4.9.5",
     "vue": "^3.2.47"
