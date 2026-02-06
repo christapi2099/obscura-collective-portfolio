@@ -44,6 +44,7 @@ defineProps({
 
             <div
                 v-parallax
+                v-bottom-up
                 data-rellax-xs-speed="0"
                 data-rellax-mobile-speed="0"
                 data-rellax-tablet-speed="0"
@@ -52,7 +53,7 @@ defineProps({
                 class="col-span-3 order-1 lg:order-2 pl-2 pt-2"
             >
                 <div
-                    class="lg:absolute aspect-square lg:aspect-[2/3] flex-none overflow-hidden bg-zinc-100 dark:bg-zinc-800 w-32 lg:w-72 rounded-2xl rotate-3"
+                    class="lg:absolute aspect-square lg:aspect-[2/3] flex-none overflow-hidden bg-zinc-100 dark:bg-zinc-800 w-32 lg:w-72 rounded-2xl rotate-3 transition-opacity duration-1000"
                 >
                     <NuxtImg
                         placeholder
