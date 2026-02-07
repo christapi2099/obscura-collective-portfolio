@@ -22,26 +22,9 @@ defineProps({
 </script>
 <template>
     <div
-        class="not-prose mt-16 lg:mt-48 content-visibility-visible contain-intrinsic-size-[auto_750px]"
+        class="not-prose mt-16 md:mt-24 lg:mt-48 content-visibility-visible contain-intrinsic-size-[auto_750px]"
     >
-        <div class="grid grid-cols-1 lg:grid-cols-7 gap-8">
-            <div class="col-span-4 flex flex-col gap-8 order-2 lg:order-1">
-                <h2
-                    class="text-4xl lg:text-6xl font-display text-zinc-800 dark:text-zinc-200"
-                >
-                    {{ firstname }} <br />
-                    {{ lastname }}
-                </h2>
-                <div class="dark:text-zinc-400 flex flex-col gap-4">
-                    <slot name="description"></slot>
-                </div>
-                <span
-                    class="font-signature text-3xl lg:text-4xl text-zinc-700 dark:text-zinc-300 opacity-75 select-none"
-                    :aria-label="`${firstname} ${lastname} signature`"
-                    >{{ firstname }} {{ lastname }}</span
-                >
-            </div>
-
+        <div class="flex flex-col items-center gap-8">
             <div
                 v-parallax
                 v-bottom-up
@@ -50,10 +33,9 @@ defineProps({
                 data-rellax-tablet-speed="0"
                 data-parallax-speed="-1"
                 data-rellax-percentage="0.5"
-                class="col-span-3 order-1 lg:order-2 pl-2 pt-2"
             >
                 <div
-                    class="lg:absolute aspect-square lg:aspect-[2/3] flex-none overflow-hidden bg-zinc-100 dark:bg-zinc-800 w-32 lg:w-72 rounded-2xl rotate-3 transition-opacity duration-1000"
+                    class="aspect-square sm:aspect-[2/3] flex-none overflow-hidden bg-zinc-100 dark:bg-zinc-800 w-40 sm:w-52 lg:w-72 rounded-2xl rotate-3 transition-opacity duration-1000"
                 >
                     <NuxtImg
                         placeholder
@@ -71,6 +53,24 @@ defineProps({
                         sizes="sm:50vw md:50vw lg:30vw"
                     />
                 </div>
+            </div>
+
+            <div
+                class="flex flex-col gap-4 items-center text-center max-w-2xl px-4 sm:px-0"
+            >
+                <h2
+                    class="text-3xl sm:text-4xl lg:text-6xl font-display text-zinc-800 dark:text-zinc-200"
+                >
+                    {{ firstname }} {{ lastname }}
+                </h2>
+                <div class="dark:text-zinc-400 flex flex-col gap-4">
+                    <slot name="description"></slot>
+                </div>
+                <span
+                    class="font-signature text-3xl lg:text-4xl text-zinc-700 dark:text-zinc-300 opacity-75 select-none"
+                    :aria-label="`${firstname} ${lastname} signature`"
+                    >{{ firstname }} {{ lastname }}</span
+                >
             </div>
         </div>
 
