@@ -37,13 +37,13 @@ export default defineNuxtConfig({
         {
           name: "description",
           content:
-            "Obscura Collective Studios LLC - Professional photography services in Long Beach, California including weddings, couples, portraits, graduation, and gym photography.",
+            "Obscura Collective Studios LLC - Professional photography and videography services in Riverside, Orange, and Los Angeles counties including weddings, quinceañeras, couples, portraits, graduation, and gym photography.",
         },
         { property: "og:title", content: "Obscura Collective Studios LLC" },
         {
           property: "og:description",
           content:
-            "Professional photography services in Long Beach, California including weddings, couples, portraits, graduation, and gym photography.",
+            "Professional photography and videography services in Riverside, Orange, and Los Angeles counties including weddings, quinceañeras, couples, portraits, graduation, and gym photography.",
         },
         { property: "og:type", content: "website" },
         { property: "og:site_name", content: "Obscura Collective Studios LLC" },
@@ -53,7 +53,7 @@ export default defineNuxtConfig({
         {
           name: "twitter:description",
           content:
-            "Professional photography services in Long Beach, California including weddings, couples, portraits, graduation, and gym photography.",
+            "Professional photography and videography services in Riverside, Orange, and Los Angeles counties including weddings, quinceañeras, couples, portraits, graduation, and gym photography.",
         },
         { name: "twitter:image", content: "/img/home/hero-grid-01.webp" },
       ],
@@ -65,21 +65,21 @@ export default defineNuxtConfig({
             "@type": "LocalBusiness",
             name: "Obscura Collective Studios LLC",
             description:
-              "Professional photography services in Long Beach, California including weddings, couples, portraits, graduation, and gym photography.",
+              "Professional photography and videography services in Riverside, Orange, and Los Angeles counties including weddings, quinceañeras, couples, portraits, graduation, and gym photography.",
             email: "obscuracollective.media@gmail.com",
             image: "/img/home/hero-grid-01.webp",
             priceRange: "$$",
             additionalType: "https://schema.org/Photographer",
             address: {
               "@type": "PostalAddress",
-              addressLocality: "Long Beach",
               addressRegion: "CA",
               addressCountry: "US",
             },
-            areaServed: {
-              "@type": "City",
-              name: "Long Beach, California",
-            },
+            areaServed: [
+              { "@type": "AdministrativeArea", name: "Riverside County, California" },
+              { "@type": "AdministrativeArea", name: "Orange County, California" },
+              { "@type": "AdministrativeArea", name: "Los Angeles County, California" },
+            ],
           }),
         },
       ],

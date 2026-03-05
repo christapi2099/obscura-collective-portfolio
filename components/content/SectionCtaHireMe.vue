@@ -28,10 +28,11 @@
                     <li>
                         <NuxtLink
                             to="mailto:obscuracollective.media@gmail.com"
-                            class="flex items-center gap-2 text-sm text-zinc-500 hover:text-zinc-800 dark:text-zinc-400 dark:hover:text-zinc-100"
+                            class="flex items-center gap-2 text-xs sm:text-sm text-zinc-500 hover:text-zinc-800 dark:text-zinc-400 dark:hover:text-zinc-100 break-all sm:break-normal"
                         >
                             <Icon
                                 name="heroicons:envelope-20-solid"
+                                class="flex-shrink-0"
                                 size="1.8rem"
                             />
                             <span>obscuracollective.media@gmail.com</span>
